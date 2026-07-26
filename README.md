@@ -1,6 +1,6 @@
 <div align="center">
 
-![Oxydius Banner](public/img/logo.png)
+<img src="public/img/logo.png" alt="Oxydius Banner" width="400">
 
 # **OXYDIUS**
 
