@@ -1,6 +1,6 @@
 <div align="center">
 
-![Oxydius Banner](public/img/barrier.webp)
+![Oxydius Banner](public/img/logo.png)
 
 # **OXYDIUS**
 
